@@ -1,8 +1,8 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Photo Gallery"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "Photo Archive"
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
@@ -31,7 +31,7 @@ social:
 # If you modify this, also modify the `default.scope.path` key below.
 gallery_dir: "gallery"
 # Any valid value of "background-position" CSS attribute.
-image_position: "left center"
+image_position: "center"
 
 ## Jekyll Configuration ##
 defaults:
