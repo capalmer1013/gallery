@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Photos"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: ""
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: ""
 social:
   # Your Twitter username.
   twitter_username: ""
