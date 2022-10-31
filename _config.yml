@@ -6,11 +6,11 @@ description: "Photo Archive"
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Elastic Designs."
+copyright: ""
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Photos"
+header: ""
 # 2nd heading/sub heading of the website.
 subheader: ""
 # A description/bio of the website.
@@ -23,7 +23,7 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: ""
   # Your email address.
   email: ""
 
